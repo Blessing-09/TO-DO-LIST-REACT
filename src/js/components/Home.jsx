@@ -1,11 +1,11 @@
 import React from "react";
-import toDoList from "./TODOLIST/toDoList.jsx";
+import ToDoList from "./TODOLIST/toDoList.jsx";
 
 const Home = () => {
   return (
-    <>
-      <toDoList />
-    </>
+  
+      <ToDoList />
+  
   );
 };
 
